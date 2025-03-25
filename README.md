@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shartiniquais&theme=onedark" alt="shartiniquais" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shartiniquais&theme=onestar" alt="shartiniquais" /></a> </p>
 
 - 🌱 I’m currently learning about **Data science and Machine Learning**
 
